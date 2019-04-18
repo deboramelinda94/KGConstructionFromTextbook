@@ -9,4 +9,4 @@ Splitting is done to obtain the clause with just one verb. Splitting is performe
 Spacy library is utilized to obtain the dependency parse tree.
 
 2.deletion
-words that has no significance meaning is omitted
+omit words that has no significance meaning such as adverb and conjunction 
